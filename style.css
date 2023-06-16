@@ -129,7 +129,7 @@ header {
   padding: 0 16px;
 }
 @media screen and (max-width: 1140px) {
-  .header-top .button p {
+  .header-top .button a {
     display: none;
   }
 }
